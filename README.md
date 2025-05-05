@@ -39,7 +39,7 @@ Desenvolver um componente de interface simples e elegante para exibir informaç�
 
 **Exemplo visual:**
 
-![Versão 1](https://imgur.com/6KnAmY6) 
+![Versão 1](https://i.imgur.com/6KnAmY6.png) 
 
 ---
 
@@ -61,7 +61,7 @@ Desenvolver um componente de interface simples e elegante para exibir informaç�
 
 **Exemplo visual:**
 
-![Versão 2](https://imgur.com/NgRaqHo) <!-- Substitua por imagem real se desejar -->
+![Versão 2](https://i.imgur.com/NgRaqHo.png) 
 
 ---
 
